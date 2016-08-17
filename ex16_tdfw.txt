@@ -1,0 +1,3 @@
+Hello World!
+Goodbye World!
+All I see is golang in my future!
